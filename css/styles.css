@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#jed-peek-card{
+  background-image: url("https://imgur.com/MTi9QIu")
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
